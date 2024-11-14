@@ -1,0 +1,11 @@
+E:\Automation\opencartV121\src\test\java\BaseTest\BaseClass.java
+E:\Automation\opencartV121\src\test\java\pageObjects\AccountRegistrationPage.java
+E:\Automation\opencartV121\src\test\java\pageObjects\BasePage.java
+E:\Automation\opencartV121\src\test\java\pageObjects\ChangePasswordPage.java
+E:\Automation\opencartV121\src\test\java\pageObjects\HomePage.java
+E:\Automation\opencartV121\src\test\java\pageObjects\LoginPage.java
+E:\Automation\opencartV121\src\test\java\pageObjects\MyAccountpage.java
+E:\Automation\opencartV121\src\test\java\testCases\AccontRegistractionTest.java
+E:\Automation\opencartV121\src\test\java\testCases\LoginTest.java
+E:\Automation\opencartV121\src\test\java\testCases\testChangePassword.java
+E:\Automation\opencartV121\src\test\java\utilites\ExtentReportManager.java
